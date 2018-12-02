@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\lhnet\\source\\repos\\Web App\\Web App\\Web App.csproj",
+      "projectUniqueName": "C:\\Users\\Lhnet\\Downloads\\EmpWebAppDev\\Web App\\Web App\\Web App.csproj",
       "projectName": "Web App",
-      "projectPath": "c:\\users\\lhnet\\source\\repos\\Web App\\Web App\\Web App.csproj",
+      "projectPath": "C:\\Users\\Lhnet\\Downloads\\EmpWebAppDev\\Web App\\Web App\\Web App.csproj",
       "packagesPath": "C:\\Users\\Lhnet\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\lhnet\\source\\repos\\Web App\\Web App\\obj\\",
+      "outputPath": "C:\\Users\\Lhnet\\Downloads\\EmpWebAppDev\\Web App\\Web App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
