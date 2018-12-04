@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPF_Tutorial1_WrapSize.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Tutorial1_WrapSize"
+        xmlns:SystemGesture="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" 
+        SizeToContent="WidthAndHeight" 
+        Topmost="False" 
+        WindowState="Normal" >
+    <Window.Resources>
+        <SystemGesture:String x:Key="strHelloAgain">Hello Again</SystemGesture:String>
+
+    </Window.Resources>
+    <WrapPanel Background="Gray" Orientation="Horizontal">
+        <Label Content="Name"/>
+        <TextBox Name="Username" Text="Enter Name" Width=" 150"/>
+        <Button Content="Send" Width="75"/>
+
+    </WrapPanel>
+</Window>
