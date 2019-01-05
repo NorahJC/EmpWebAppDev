@@ -1,0 +1,11 @@
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.deps.json
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfo.cs
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csprojAssemblyReference.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.json
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.dev.json
