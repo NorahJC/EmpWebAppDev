@@ -1,0 +1,12 @@
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb
