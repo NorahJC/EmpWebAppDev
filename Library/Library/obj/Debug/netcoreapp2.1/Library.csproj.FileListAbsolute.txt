@@ -32,3 +32,6 @@ C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\Library\obj\Debug\netcoreapp2.1\Li
 C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\Library\obj\Debug\netcoreapp2.1\Library.csproj.CopyComplete
 C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\Library\bin\Debug\netcoreapp2.1\LibraryData.dll
 C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\Library\bin\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\Library\bin\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\Library\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Library\Library\obj\Debug\netcoreapp2.1\Razor\Pages\Catalog.g.cshtml.cs

@@ -1,0 +1,2 @@
+1/17/2019
+The Library Projects is a test of the ASP.net core functionality. It uses a database to gather data and display said data on a webpage. I'm going to drop this project for now due to the fact the original project by Wes Doyle uses MVC Controllers and Views, whereas the project my team wants to go with uses Razor Pages. I plan to pick up this project again and will in the future have a better understanding of the differences between the two outside of MVC needing three root files whereas Razor Pages onl needs one.

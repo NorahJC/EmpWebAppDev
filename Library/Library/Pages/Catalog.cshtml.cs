@@ -38,7 +38,8 @@ namespace Library.Pages
             {
                 Assets = listingResult
             };
-            //Find Razor equivilent of  returning to view
+
+            return RedirectToPage(); //Check
         }
     }
 }
