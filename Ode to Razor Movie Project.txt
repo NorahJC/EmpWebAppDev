@@ -1,0 +1,1 @@
+Razor Movie Project is the implementation of the razor pages asp.net core that simply creates and uses information from a database to display information about movies. It include the use of CRUD, Seed data, Scaffolding, Validations, and a Database.
