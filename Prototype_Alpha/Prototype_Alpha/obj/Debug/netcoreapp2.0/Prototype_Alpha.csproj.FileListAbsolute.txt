@@ -1,0 +1,11 @@
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.deps.json
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.runtimeconfig.json
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.runtimeconfig.dev.json
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.dll
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.csprojAssemblyReference.cache
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.csproj.CoreCompileInputs.cache
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.AssemblyInfoInputs.cache
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.AssemblyInfo.cs
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.pdb
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.dll
+c:\users\lhayes32-gtri\source\repos\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.pdb
