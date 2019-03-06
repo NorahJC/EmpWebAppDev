@@ -5,72 +5,42 @@
 }
 
 
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>Emotion Analytics (Prototype)</title>
+
+    <!-- Custom styles for this template -->
+    <link href="~/css/zSidebar.css" rel="stylesheet" />
+
+    <!-- Chart JS -->
+    <script src="~/js/zChart.js"></script>
+    <link href="~/css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- Scroll Reveal -->
+    <script src="~/js/zScrollReveal.js"></script>
+    <script>
+        window.sr = ScrollReveal({ reset: false });
+
+        // Custom Settings
+        sr.reveal('.reveal', {
+            origin: 'right',
+            duration: 2000,
+        });
+    </script>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:400,700" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+    <link rel="stylesheet" href="~/css/zMain.css" />
+</head>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
 
+<body>
 
-<canvas id="myChart" width="200" height="100"></canvas>
-
-<script>
-    var ctx = document.getElementById("myChart");
-    var myChart = new Chart(ctx, {
-        type: 'horizontalBar',
-        data: {
-            labels: ["C++", "C#", "C", "Javascript / JSX", "SQL", "React", "NodeJS", "SDL 2", "Python", "PHP", "JAVA"],
-            datasets: [{
-                data: [70, 68, 66, 65, 64, 64, 64, 60, 59, 58, 57],
-                backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(153, 102, 255, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(255, 159, 64, 0.2)',
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                ],
-                borderColor: [
-                    'rgba(255,99,132,1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(255, 159, 64, 1)',
-                    'rgba(255,99,132,1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-
-                ],
-                borderWidth: 1
-            }]
-        },
-        options: {
-            title: {
-                display: false,
-                text: ""
-            },
-            legend: {
-                display: false
-            },
-            tooltips: {
-                enabled: false
-            },
-            scales: {
-                xAxes: [{
-                    display: false,
-                }],
-                yAxes: [{
-                    barThickness: 10,
-
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            }
-        }
-    });
-</script>
+</body>

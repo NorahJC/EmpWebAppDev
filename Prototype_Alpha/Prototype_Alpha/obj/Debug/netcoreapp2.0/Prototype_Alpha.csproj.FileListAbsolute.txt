@@ -20,3 +20,14 @@ C:\Users\lhayes32-gtri\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\ob
 C:\Users\lhayes32-gtri\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.AssemblyInfo.cs
 C:\Users\lhayes32-gtri\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.dll
 C:\Users\lhayes32-gtri\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.pdb
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.deps.json
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.runtimeconfig.json
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.runtimeconfig.dev.json
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.dll
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\bin\Debug\netcoreapp2.0\Prototype_Alpha.pdb
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.csprojAssemblyReference.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.csproj.CoreCompileInputs.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.AssemblyInfoInputs.cache
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.AssemblyInfo.cs
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.dll
+C:\Users\Lhnet\Downloads\EmpWebAppDev\Prototype_Alpha\Prototype_Alpha\obj\Debug\netcoreapp2.0\Prototype_Alpha.pdb
