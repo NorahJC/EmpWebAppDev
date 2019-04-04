@@ -1,0 +1,30 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@Model.Message</h3>
+
+<!-- Container (About Section) -->
+<div id="about" class="container-fluid">
+    <div class="row">
+        <div class="col-sm-8">
+            <h2>About Tiresias Analyzer</h2>
+            <p>
+                This project is a part of the NSF project "A Comprehensive Approach to Support
+                the Requirements Analyst Before, During, and After Requirements
+                Elicitation Interviews" (NSF award #1718377). 
+                We are creating a web application that shows the results of the E4 wristaband in real-time.
+                Our application will also be used to assess the emotion of the interviewee during the 
+                interivew in order to better collect requirements.
+            </p>
+            <br/>
+            <p>
+                Undergraduate Research Assistants:
+                <p> Norah Jean-Charles (njeancha@students.kennesaw.edu)</p> 
+                <p> Leonard Hayes (lhayes32@students.kennesaw.edu)</p>
+            </p>
+        </div>
+    </div>
+</div>
